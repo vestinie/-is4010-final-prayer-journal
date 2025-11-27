@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "text": "Please give me wisdom for my exams",
+    "category": "School",
+    "date_created": "2025-11-27 15:33:09",
+    "answered": true,
+    "date_answered": "2025-11-27 15:33:33"
+  },
+  {
+    "id": 2,
+    "text": "Heal my grandmother",
+    "category": "Family",
+    "date_created": "2025-11-27 15:33:17",
+    "answered": false,
+    "date_answered": null
+  }
+]
